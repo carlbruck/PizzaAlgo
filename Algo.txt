@@ -1,1 +1,10 @@
-added some text 
+Find Location
+Read reviews
+See Menu
+Make Selection
+Pay
+    5a Pay over phone
+    5b Pay at door
+Submit order
+Answer door
+EAT PIZZA
