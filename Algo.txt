@@ -8,3 +8,5 @@ Pay
 Submit order
 Answer door
 EAT PIZZA
+Got hungry again
+see step 1 
